@@ -74,7 +74,7 @@ const SocialLinks = () => {
           );
         })}
       <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
-        Download My CV 2
+        Download My CV qays
       </a>        
       {/* {userData.blog && (
         <a
